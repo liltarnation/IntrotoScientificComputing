@@ -1,0 +1,37 @@
+Name: Dominic Therattil & Sebastian Preststulen IBC, Practical 3 
+
+
+String s: 
+GGAATGG
+
+
+String t: 
+ATG
+
+
+Matrix D: 
+ 0  5 10 15
+ 5  4  9 10
+10  9  8  9
+15 10 13 12
+20 15 14 17
+25 20 15 18
+30 25 20 15
+35 30 25 20
+
+
+Matrix P: 
+*---
+|\\\
+|\\\
+|\\\
+|\\\
+||\\
+|||\
+|||\
+
+
+Alignment: 
+GGAATGG
+   || |
+---AT-G
